@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "8d572a2c039476fc5bd81faf",
+  "owner": "ubwphwap",
+  "repo": "page-e4a3b4152d18ced19e960380",
+  "title": "魔戒",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e4a3b4152d18ced19e960380",
+      "a": "魔戒",
+      "b": "",
+      "entity": "魔戒",
+      "brand": "魔戒",
+      "separator": "",
+      "path": "index.html",
+      "hash": "f1590a3f41e704b7573d041534ec55e828688a464886cb9217c0b0a1fe72fa4a",
+      "content": {
+        "keyword1": "魔戒",
+        "keyword2": "",
+        "primary_entity": "魔戒",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "魔戒VPN提供安全稳定的网络加速解决方案。套餐可选，满足不同需求。官方客户端下载，助力您的网络畅享。",
+          "AI_DESCRIPTION": "魔戒VPN提供安全稳定的网络加速解决方案。套餐可选，满足不同需求。官方客户端下载，助力您的网络畅享。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>body { font-family: system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif; background: #f8f4f0; color: #333; line-height: 1.6; margin: 0; padding: 0; } main { max-width: 1100px; margin: 0 auto; padding: 40px 20px; } h1 { font-size: 2.8rem; text-align: center; color: #2c3e50; margin-bottom: 10px; } h2 { font-size: 1.8rem; color: #ff6b6b; margin: 50px 0 20px; text-align: center; } section { margin-bottom: 60px; } p { font-size: 1.1rem; margin-bottom: 20px; } ul, ol { padding-left: 20px; } li { margin-bottom: 12px; font-size: 1.1rem; } a { color: #ff6b6b; text-decoration: none; } a:hover { text-decoration: underline; } details { border: 1px solid #ddd; border-radius: 8px; margin-bottom: 15px; } summary { padding: 15px; font-weight: bold; cursor: pointer; background: #fff; border-radius: 8px 8px 0 0; } summary:hover { background: #f8f4f0; }</style><main><h1>魔戒 VPN</h1><section><h2>高端VPN加速服务</h2><p>安全稳定的网络加速，让您畅享全球无障碍互联网</p><p>魔戒VPN 专注提供优质加速解决方案</p><div><a href=\"#plans\">选择套餐</a><a href=\"#clients\">下载客户端</a></div></section><section><h2>品牌简介</h2><p>魔戒VPN是一款专注于高端网络加速的VPN服务品牌。通过先进的节点选择和技术支持，为用户提供安全稳定的上网体验。</p></section><section><h2>使用场景</h2><ul><li>解锁各类流媒体平台内容</li><li>降低游戏玩家的网络延迟</li><li>支持多人在线协作</li><li>保护用户隐私和网络安全</li><li>全球访问被屏蔽内容</li></ul></section><section><h2>操作说明</h2><ol><li>访问官方网站</li><li>选择适合的套餐进行订阅</li><li>根据操作系统下载客户端</li><li>安装完成后连接节点</li><li>享受加速服务</li></ol></section><section><h2>选择套餐</h2>{{PLANS_HTML}}</section><section><h2>常见问题</h2><details><summary>什么是魔戒VPN？</summary><p>魔戒VPN是一款专注于提供安全稳定网络加速的VPN服务品牌，致力于帮助用户突破地域限制，畅享优质互联网内容。</p></details><details><summary>如何订阅魔戒VPN？</summary><p>您可以通过官方网站选择套餐进行订阅，支付成功后即可获得访问权限并开始使用。</p></details><details><summary>支持哪些设备？</summary><p>不同套餐提供不同数量设备同时在线支持，具体以套餐配置为准。</p></details><details><summary>是否支持流媒体解锁？</summary><p>部分套餐提供流媒体解锁功能，旗舰版及以上可原生解锁热门平台。</p></details><details><summary>如何获取技术支持？</summary><p>我们提供7x24工单支持，团队版套餐还有专属客户经理服务。</p></details><details><summary>客户端下载地址在哪里？</summary><p>在官方网站上可找到适用于Windows、Mac、iOS、Android等操作系统的客户端下载入口。</p></details></section><section><h2>推荐客户端</h2>{{CLIENTS_HTML}}</section></main>",
+          "hash": "bfac7c56495e89ac651c5a49f957f1fa591d89e4c4876c5817f87f811f1099a6",
+          "seo": {
+            "title": "魔戒VPN - 优质机场加速服务 | 客户端下载",
+            "keywords": "魔戒VPN,魔戒机场,VPN加速器,机场订阅,客户端下载",
+            "description": "魔戒VPN提供安全稳定的网络加速解决方案。套餐可选，满足不同需求。官方客户端下载，助力您的网络畅享。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "hndaocaorenly.cn",
+    "host": "web.hndaocaorenly.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "hndaocaorenly.cn",
+      "url": "https://hndaocaorenly.cn/",
+      "label": "fnf",
+      "apex": "hndaocaorenly.cn",
+      "kind": null,
+      "identity": "bmayjvtaa/page-b482c53299999097d4defc25"
+    },
+    {
+      "host": "999ew.cn",
+      "url": "https://999ew.cn/",
+      "label": "魔戒",
+      "apex": "999ew.cn",
+      "kind": null,
+      "identity": "vxspeg9bv/page-0b84603d0eb599eaf789f1cd"
+    },
+    {
+      "host": "bggdjp.cn",
+      "url": "https://bggdjp.cn/",
+      "label": "魔戒",
+      "apex": "bggdjp.cn",
+      "kind": null,
+      "identity": "pwk8xwvp/page-6c4e6880f26af3a8a6cfcca5"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "0a843bce7dcd3c82d6336268d3b07b2fd10d8000974e137c3a4418a35c0908dd",
+    "sitemap.xml": "5954a747d2084292d392f24e18cbb8c386b6a35d98789be92cdecf7f8ebb37b8",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6371cba435f28337dfcfbcfc4e0aee815cdbae3c3629adaec3b64a4e0f944734",
+    "robots.txt": "dc7f9ec97ab4dbe9fcdfec4658b49bfa576ddf4bee81d97e826bb5eb3c095c20",
+    "d06ba9bcf189a2fd245730da0f6281a5.txt": "96f50b13f49be1f326dfe01eee03d721b39f41f2e55420b00c428b5fdce78f84"
+  },
+  "revision": "fee657a5399ef85f1d380300255c18c51eb082c3627b396aa72d40a68fdb8edf"
+}
